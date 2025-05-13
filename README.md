@@ -129,7 +129,7 @@ Cloud | DevOps | Infrastructure as Code
 
 > 🚫 **Read-Only Repository**
 >
-> This project has been **archived intentionally** as a showcase for recruiters, classmates, and interviewers.  
+> This project has been **archived intentionally** as a showcase for recruiters, colleagues, and interviewers.  
 > Feel free to **clone or fork** the code for reference, but no changes will be made to this repository.
 >
 > 📁 **Status**: `Archived` | 🔐 **Mode**: `Read-Only` | 💼 **Purpose**: `Interview & Portfolio Demo`
